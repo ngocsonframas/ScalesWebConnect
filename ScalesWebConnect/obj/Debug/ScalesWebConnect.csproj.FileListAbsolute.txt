@@ -1,0 +1,9 @@
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\bin\Debug\ScalesWebConnect.exe.config
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\bin\Debug\ScalesWebConnect.exe
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\bin\Debug\ScalesWebConnect.pdb
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\obj\Debug\ScalesWebConnect.csprojAssemblyReference.cache
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\obj\Debug\ScalesWebConnect.frmScales.resources
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\obj\Debug\ScalesWebConnect.Properties.Resources.resources
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\obj\Debug\ScalesWebConnect.csproj.GenerateResource.cache
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\obj\Debug\ScalesWebConnect.exe
+D:\My-Document\My-Tranning\ScalesWebConnect\ScalesWebConnect\obj\Debug\ScalesWebConnect.pdb
